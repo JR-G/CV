@@ -37,7 +37,7 @@ Amber Infrastructure is a specialist international investment manager, focused o
 
 - Allocated to a portfolio of 16 SPV entities. Involved the preparation of statutory accounts, review of monthly payment runs, liaising between the various project stakeholders and supervision of the Junior Accountant.
 
-**Alduwaliya Asset Management** | September 2017 - May 2019  
+**Alduwaliya Asset Management** | October 2016 - September 2017  
 **Accountant**
 
 Alduwaliya is a multi-billion dollar global real estate fund on behalf of the Qatari Royal Family, investing in high grade commercial properties & hotels.
@@ -46,7 +46,7 @@ Alduwaliya is a multi-billion dollar global real estate fund on behalf of the Qa
 
 - Upgraded the firms financial capabilities by successfully implementing Oracle Fusion Financials. Building the reporting tools as the team grew from 2 of us to 5 global finance professionals. 
 
-**Amber Infrastructure Group** | September 2017 - May 2019  
+**Amber Infrastructure Group** | November 2014 - October 2016  
 **Assistance Systems Accountant**
 
 Amber Infrastructure is a specialist international investment manager, focused on investment origination, asset management and fund management. With over £8 billion of assets managed, Amber invests in eight countries internationally across its funds and a number of managed accounts.

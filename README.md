@@ -24,7 +24,7 @@ Monzo was founded in 2015 and is recognised by the iconic _'Hot Coral'_ card. Th
 
 - Built an automated global Balance Sheet Substantiation (BSS) & full reconciliation process using SQL, BigQuery and Google Apps Script. Achieving an 100% account attestation in four working days for ~200 general ledger accounts. I saved the firm on the significant cost of purchasing a third-party BSS system by single-handedly building the tool in-house, in under a month.
 
-- Cut processing time from 2 working days to 2 hours and significantly reduced manual errors by automating the upload of third-party expense card data. Achieved by deploying an ETL backend Python service to send API requests, map the data using Pandas and then prepare a NetSuite Journal which could be passed to a Golang service using a RPC.
+- Cut processing time from 2 working days to 2 hours and drastically reduced manual errors by automating the upload of third-party expense card data. Achieved by deploying an ETL backend Python service to send API requests, map the data using Pandas and then prepare a NetSuite Journal which could be passed to a Golang service using a RPC.
 
 - Achieved further time savings by automating the quarterly intraday liquidity returns for the bank. Coordinating with the Regulatory, Engineering and Data team to consolidate multiple payment schemes using SQL, BigQuery and dbt. Reducing the process from four working days to half a day.
 

@@ -28,8 +28,8 @@ _Monzo was founded in 2015 and is recognised by the iconic 'Hot Coral' card. The
 
 - Cut processing time from two working days to two hours and drastically reduced manual errors by automating the upload of third-party expense card data. Achieved by deploying an ETL backend Python service to send API requests (Requests Python Library), map the data using Pandas and then prepare a NetSuite Journal which could be passed to a Golang service using an RPC.
 
-- Achieved further time savings by automating the quarterly intraday liquidity returns for the bank. Coordinating with the Regulatory, Engineering and Data team to consolidate multiple payment schemes using SQL, BigQuery and dbt. Reducing the process from four working days to half a day.
-
+- Achieved further time savings by automating the quarterly intraday liquidity returns for the bank. Coordinating with the Regulatory, Engineering and Data team to consolidate multiple payment schemes using SQL, BigQuery and dbt. Reducing the process from four working days to half a day.<br></br>
+   
 **Amber Infrastructure Group** | September 2017 - May 2019  
 **Project Accountant**
 
@@ -37,7 +37,7 @@ _Amber Infrastructure is a specialist international investment manager, focused 
 
 - Automated the firms manual payment process. Saving each Accountant up to two days of work per month, by building and deploying a user tool with Python, included a basic GUI (tkinter) and utilised the Pandas & Selenium packages.
 
-- Allocated to a portfolio of 16 SPV entities. Involved the preparation of statutory accounts, review of monthly payment runs, VAT returns, dividend distributions, liaising between the various project stakeholders and the supervision of the Junior Accountant.
+- Allocated to a portfolio of 16 SPV entities. Involved the preparation of statutory accounts, review of monthly payment runs, VAT returns, dividend distributions, liaising between the various project stakeholders and the supervision of the Junior Accountant.<br></br>
 
 **Alduwaliya Asset Management** | October 2016 - September 2017  
 **Accountant**
@@ -46,7 +46,7 @@ _Alduwaliya is a multi-billion dollar global real estate fund on behalf of the Q
 
 - Oversaw and coordinated overall finances for four UK properties and two US based hotels. Included the review of financial accounts, management of entity cashflow and regularly liaising with stakeholders across Luxembourg, Doha and the US.
 
-- Upgraded the firms financial capabilities by successfully implementing Oracle Fusion Financials. I built the firms expense system and the finance reporting tools, as the team grew from 2 of us to 5 global finance professionals. 
+- Upgraded the firms financial capabilities by successfully implementing Oracle Fusion Financials. I built the firms expense system and the finance reporting tools, as the team grew from 2 of us to 5 global finance professionals. <br></br>
 
 **Amber Infrastructure Group** | November 2014 - October 2016  
 **Assistance Systems Accountant**

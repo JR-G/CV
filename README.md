@@ -2,7 +2,7 @@
   James Glenn
 </h1>
 
-I'm currently a Software Engineering bootcamp student at Makers. Previously I was a finance professional that helped to build Monzo, a £1.4bn valued FinTech and the UK’s fastest growing bank. I worked as the sole Finance Projects Analyst, tasked with ensuring that the Finance function remained focused on automation and controls as the company rapidly scaled from 1.9m customers to over 4.2m and grew from ~900 employees to over 1,500.
+I'm currently a Software Engineering bootcamp graduate. Previously I was a finance professional that helped to build Monzo, a £1.4bn valued FinTech and the UK’s fastest growing bank. I worked as the sole Finance Projects Analyst, tasked with ensuring that the Finance function remained focused on automation and controls as the company rapidly scaled from 1.9m customers to over 4.2m and grew from ~900 employees to over 1,500.
 
 This is backed with over four years of finance & accounting experience in public infrastructure (energy & social PFI/PPP) investments for a leading FTSE250 fund and in commercial real estate acquisition for a global private equity fund, on behalf of the Qatari Royal Family.
 
